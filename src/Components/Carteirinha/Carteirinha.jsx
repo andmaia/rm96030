@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from "react";
+import './Carteirinha.css'
 export default function Carteirinha(){
 
     const [nome,setNome]=useState('')
@@ -59,7 +60,7 @@ export default function Carteirinha(){
                 </form>
             </div>
             {validacao&&(
-                    <div className="itemA">
+               <div className="itemM">
                     <img src="https://www.montealtoadv.com.br/wp-content/uploads/2019/04/user-icon.png" alt="" />
                     <p>Nome:{nome}</p>
                     <p>RM:{rm}</p>
