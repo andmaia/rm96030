@@ -23,7 +23,7 @@ export default function Carteirinha(){
                     <img src="https://www.montealtoadv.com.br/wp-content/uploads/2019/04/user-icon.png" alt="" />
                     <p>Nome: Andrew Rian Maia Araujo</p>
                     <p>RM:96030</p>
-                    <p>Curso:Tecnólogo em Análise e desenvolvimento de sistemas</p>
+                    <p>Curso:Análise e desenvolvimento de sistemas</p>
                     <p>Turma:1TDSR</p>
                 </div>
 
