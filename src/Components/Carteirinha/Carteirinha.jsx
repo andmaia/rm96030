@@ -29,7 +29,7 @@ export default function Carteirinha(){
 
                 <div className="item">
                     <img src="https://www.montealtoadv.com.br/wp-content/uploads/2019/04/user-icon.png" alt="" />
-                    <p>Nome: Javascipson PHP Henrique</p>
+                    <p>Nome: PHP Henrique</p>
                     <p>RM:00001</p>
                     <p>Curso:ENG.de Software</p>
                     <p>Turma:2EDS</p>
@@ -37,7 +37,7 @@ export default function Carteirinha(){
 
                 <div className="item">
                     <img src="https://www.montealtoadv.com.br/wp-content/uploads/2019/04/user-icon.png" alt="" />
-                    <p>Nome: Node Felipe Apiano</p>
+                    <p>Nome: Node Felipe</p>
                     <p>RM:00002</p>
                     <p>Curso:Sistemas de informações</p>
                     <p>Turma:1SDI</p>
