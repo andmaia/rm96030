@@ -1,0 +1,53 @@
+.DivUm{
+    background-color: rgb(33, 32, 32);
+    border-radius: 10px;
+    padding: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: 7px 2px 12px  black;
+}
+.Container_dad{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.G{
+    background-color: rgb(1, 59, 1);
+  
+}
+.R{
+    background-color: rgb(76, 2, 2);
+}
+.Y{
+    background-color: rgb(48, 48, 1);
+}
+
+.ContainerSon{
+    width: 20px;
+    height: 20px;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+.Button{
+    border: none;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: rgb(94, 93, 93);
+    box-shadow: 7px 2px 7px  black;
+}
+
+.Button:hover{
+  transition: 1s;
+  box-shadow: 7px 2px 15px  black;
+  color: rgb(0, 0, 0);
+
+}
